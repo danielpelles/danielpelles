@@ -1,9 +1,8 @@
 # Daniel Pelles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/danielpelles)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.danielpelles)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/danielpelles)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-000?style=flat&logoColor=&logo=whatsapp&logoColor=green)](https://wa.me/+5262981182111)
-[![Outlook](https://img.shields.io/badge/Outlook-000?style=flat&logoColor=blue&logo=microsoft-outlook)](daancruzz@hotmail.com)
-
+[![Outlook](https://img.shields.io/badge/Outlook-000?style=flat&logoColor=blue&logo=microsoft-outlook)](mailto:dancruzz@hotmail.com)
 
 #### I live in Brazil and I am student of programming and cybersecurity, currently pursuing a degree in Analysis and Systems Development in the third semester. I am seeking knowledge and opportunities for my first internship.
 
