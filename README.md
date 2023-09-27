@@ -4,25 +4,12 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-000?style=flat&logoColor=&logo=whatsapp&logoColor=green)](https://wa.me/+5262981182111)
 [![Outlook](https://img.shields.io/badge/Outlook-000?style=flat&logoColor=blue&logo=microsoft-outlook)](mailto:dancruzz@hotmail.com)
 
-#### My name is Daniel Cruz, I'm 30 years old, and I am currently in the 3rd semester of the Analysis and Systems Development program at Anhanguera College, located in Goiânia, Goiás.
-
-I am deeply committed to my professional journey in the field of Information Technology, constantly striving to expand my knowledge in various technologies. Furthermore, I have the goal of specializing in Cybersecurity, contributing to the protection of systems and data in the digital world.
-
-I am dedicated to learning and growing in this exciting and ever-evolving field of technology.
-
-Please feel free to get in touch with me to discuss collaboration opportunities or share knowledge in the IT field.
-
-I am actively seeking an internship opportunity!
-
-> ######  Meu nome é Daniel Cruz, tenho 30 anos e atualmente estou cursando o 3º período do curso de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera, localizada em Goiânia, Goiás. 
-
+ ####  Meu nome é Daniel Cruz, tenho 30 anos e atualmente estou cursando o 3º período do curso de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera, localizada em Goiânia, Goiás. 
 Tenho um forte compromisso com minha jornada profissional na área de Tecnologia da Informação, buscando constantemente expandir meus conhecimentos em diversas tecnologias. Além disso, tenho como objetivo me especializar em Cibersegurança, contribuindo para a proteção de sistemas e dados no mundo digital.
-
 Estou empenhado em aprender e crescer nesse campo empolgante e em constante evolução da tecnologia.
-
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou compartilhar conhecimento na área de T.I.
 
-Estou em busca de estágio!
+#####Estou em busca de estágio!
 
 
 #### I am learning at the moment
