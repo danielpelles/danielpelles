@@ -4,15 +4,18 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-000?style=flat&logoColor=&logo=whatsapp&logoColor=green)](https://wa.me/+5262981182111)
 [![Outlook](https://img.shields.io/badge/Outlook-000?style=flat&logoColor=blue&logo=microsoft-outlook)](mailto:dancruzz@hotmail.com)
 
- ####  Meu nome é Daniel Cruz, tenho 30 anos e atualmente estou cursando o 3º período do curso de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera, localizada em Goiânia, Goiás. 
-Tenho um forte compromisso com minha jornada profissional na área de Tecnologia da Informação, buscando constantemente expandir meus conhecimentos em diversas tecnologias. Além disso, tenho como objetivo me especializar em Cibersegurança, contribuindo para a proteção de sistemas e dados no mundo digital.
-Estou empenhado em aprender e crescer nesse campo empolgante e em constante evolução da tecnologia.
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou compartilhar conhecimento na área de T.I.
+<p align="center">
+  <strong>Meu nome é Daniel Cruz, tenho 30 anos e atualmente estou cursando o 3º período do curso de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera, localizada em Goiânia, Goiás.  </strong>
+  
+  Tenho um forte compromisso com minha jornada profissional na área de Tecnologia da Informação, buscando constantemente expandir meus conhecimentos em diversas tecnologias. Além disso, tenho como objetivo me especializar em Cibersegurança, contribuindo para a proteção de sistemas e dados no mundo digital.  
+  
+  Estou empenhado em aprender e crescer nesse campo empolgante e em constante evolução da tecnologia.  
+  
+  Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou compartilhar conhecimento na área de T.I.
+</p>
 
-#####Estou em busca de estágio!
 
-
-#### I am learning at the moment
+##### Estou em busca de estágio!
 
 ![LinkedIn](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![LinkedIn](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
