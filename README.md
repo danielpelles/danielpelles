@@ -5,7 +5,7 @@
 [![Outlook](https://img.shields.io/badge/Outlook-000?style=flat&logoColor=blue&logo=microsoft-outlook)](mailto:dancruzz@hotmail.com)
 
 <p align="center">
-  <strong>Meu nome é Daniel Cruz, tenho 30 anos e atualmente estou cursando o 3º período do curso de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera, localizada em Goiânia, Goiás.  </strong>
+  <strong>Meu nome é Daniel Cruz, tenho 32 anos sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera, localizada em Goiânia, Goiás.  </strong>
   
   Tenho um forte compromisso com minha jornada profissional na área de Tecnologia da Informação, buscando constantemente expandir meus conhecimentos em diversas tecnologias. Além disso, tenho como objetivo me especializar em Cibersegurança, contribuindo para a proteção de sistemas e dados no mundo digital.  
   
