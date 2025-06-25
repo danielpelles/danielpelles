@@ -5,12 +5,9 @@
 [![Outlook](https://img.shields.io/badge/Outlook-000?style=flat&logoColor=blue&logo=microsoft-outlook)](mailto:dancruzz@hotmail.com)
 
 <p align="center">
- Sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência prática com suporte técnico, infraestrutura de T.I. e atendimento ao cliente. Nos últimos anos, foquei minha carreira na área de dados, combinando habilidades técnicas e pensamento analítico para transformar informações em insights estratégicos.
-
+Sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência prática com suporte técnico, infraestrutura de T.I. e atendimento ao cliente. Nos últimos anos, foquei minha carreira na área de dados, combinando habilidades técnicas e pensamento analítico para transformar informações em insights estratégicos.
 Utilizo ferramentas como Power BI, MySQL e Python para explorar, tratar e visualizar dados de forma clara e objetiva. Tenho facilidade em entender problemas e traduzi-los em soluções visuais que apoiam a tomada de decisão, sempre com foco no negócio. Acredito na simplicidade e na melhoria contínua como pilares para gerar valor.
-
-Busco constantemente aprender e evoluir — sei que o conhecimento é construído com prática, humildade e curiosidade. Estou pronto para contribuir com projetos de dados que exigem organização, visão analítica e compromisso com resultados.
-</p>
+Busco constantemente aprender e evoluir — sei que o conhecimento é construído com prática, humildade e curiosidade. Estou pronto para contribuir com projetos de dados que exigem organização, visão analítica e compromisso com resultados.</p>
 
 ![LinkedIn](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
