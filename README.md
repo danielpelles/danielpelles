@@ -1,99 +1,167 @@
-# 👨‍💻 Daniel Pelles
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/danielpelles)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/danielpelles)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=flat&logo=whatsapp&logoColor=green)](https://wa.me/+5562981182111)
-[![Email](https://img.shields.io/badge/Outlook-000?style=flat&logo=microsoft-outlook&logoColor=blue)](mailto:dancruzz@hotmail.com)
+<img src="banner.png">
 
----
+</p>
 
-## 🚀 Sobre mim
+<h1 align="center">
+Daniel Pelles
+</h1>
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e venho construindo minha trajetória na interseção entre **Tecnologia, Dados e Automação**.
+<h3 align="center">
+Analista de Dados • Business Intelligence • Automação • Desenvolvimento Web
+</h3>
 
-Tenho experiência prática com **infraestrutura de TI, suporte técnico e análise de negócios**, o que me permitiu entender como a tecnologia impacta diretamente a operação e a tomada de decisão dentro das empresas.
-
-Atualmente direciono meus estudos e projetos para **Análise de Dados, Desenvolvimento Web e Automação de Processos**, utilizando ferramentas modernas para transformar dados em **insights estratégicos e soluções tecnológicas escaláveis**.
-
-Meu objetivo é atuar como **Analista de Dados Júnior**, contribuindo com:
-
-- análise e exploração de dados  
-- construção de dashboards e visualizações  
-- automação de processos  
-- desenvolvimento de aplicações orientadas a dados  
-
-Acredito que **dados bem utilizados podem melhorar decisões, otimizar processos e gerar vantagem competitiva para empresas**.
-
-Este GitHub funciona como meu **laboratório de aprendizado**, onde compartilho projetos, estudos e experimentos na área de tecnologia.
+<p align="center">
+Transformando dados em decisões inteligentes através de tecnologia.
+</p>
 
 ---
 
-# 🧠 Tecnologias e Ferramentas
+# 🌎 Conecte-se
 
-### 📊 Dados e Business Intelligence
+<p align="center">
 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<a href="https://linkedin.com/in/danielpelles">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="https://github.com/danielpelles">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### 💻 Desenvolvimento
+<a href="mailto:dancruzz@hotmail.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook"/>
+</a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://wa.me/5562981182111">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
 
----
-
-### ⚙️ Automação e Integrações
-
-![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge)
+</p>
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 💼 Sobre mim
 
-<div align="center">
+Sou Analista de Dados com experiência no desenvolvimento de soluções voltadas para Business Intelligence, automação de processos e desenvolvimento de aplicações.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+Atuo diariamente transformando dados em informações estratégicas por meio de dashboards, integrações entre sistemas e análise de indicadores, auxiliando áreas comerciais e de gestão na tomada de decisão.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpelles&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
+Tenho experiência com ERP, CRM, manipulação de dados, desenvolvimento web e automações utilizando Python e JavaScript.
 
 ---
 
-# 📚 Atualmente estudando
+# 🚀 Especialidades
 
-- 📊 Análise de dados com **Python**
-- 📈 Dashboards com **Power BI**
-- 🌐 Desenvolvimento web com **React e Next.js**
-- ⚙️ Automação de fluxos com **Python e n8n**
-- 🗄️ Modelagem e consultas com **SQL**
+✔ Business Intelligence
+
+✔ Dashboards HTML
+
+✔ Power BI
+
+✔ Python
+
+✔ Pandas
+
+✔ SQL
+
+✔ JavaScript
+
+✔ TypeScript
+
+✔ Node.js
+
+✔ APIs REST
+
+✔ ERP
+
+✔ CRM
+
+✔ Automações
+
+✔ Integração de Sistemas
 
 ---
 
-# 🎯 Objetivo profissional
+# 💻 Stack Tecnológica
 
-Atuar como **Analista de Dados Júnior**, aplicando tecnologia para:
+## Dados
 
-- explorar dados
-- automatizar processos
-- criar dashboards
-- gerar insights para decisões estratégicas
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 
 ---
 
-# 🚀 Em constante evolução
+## Desenvolvimento
 
-Acredito que tecnologia é construída com **curiosidade, prática e melhoria contínua**.
+<p>
 
-Aqui no GitHub você encontrará projetos que fazem parte da minha evolução como profissional de **Tecnologia e Dados**.
+<img src="https://skillicons.dev/icons?i=html"/>
 
-Sempre aberto a aprender, colaborar e explorar novas ideias.
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+---
+
+# ⚙️ Ferramentas
+
+- SAP ERP
+- Pipedrive CRM
+- Excel Avançado
+- Power Query
+- n8n
+- Render
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📂 Projetos em Destaque
+
+📊 Dashboard Comercial
+
+📈 Dashboard de Indicadores
+
+🤖 Automação com Python
+
+🌐 Sistema Web para Formulários
+
+🔗 Integrações ERP + CRM
+
+---
+
+<p align="center">
+
+
+"A melhor decisão é aquela baseada em dados."
+
+</p>
+```
